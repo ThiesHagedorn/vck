@@ -13,3 +13,6 @@ $ vagrant up
 ```
 4. After the box is runnig you will find a shared kirby folder in your local vck folder
 5. Type in your browser http://192.168.23.23:2015
+
+##Video
+https://www.youtube.com/watch?v=7i7QQ2V3Qo4
