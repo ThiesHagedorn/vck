@@ -15,4 +15,4 @@ $ vagrant up
 5. Type in your browser http://192.168.23.23:2015
 
 ##Video
-https://www.youtube.com/watch?v=7i7QQ2V3Qo4
+https://www.youtube.com/watch?v=1YrzNDfFgd0
